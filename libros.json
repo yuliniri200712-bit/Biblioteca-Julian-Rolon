@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Receta de la abuela",
+        "autor": "Karen Maria",
+        "genero": "Cocina",
+        "anio_publicacion": 2024,
+        "estado": "Disponible",
+        "prestado_a": null
+    },
+    {
+        "titulo": "Salud y Bienestar",
+        "autor": "Lorena Machado",
+        "genero": "Educacion",
+        "anio_publicacion": 2024,
+        "estado": "Disponible",
+        "prestado_a": null
+    }
+]
